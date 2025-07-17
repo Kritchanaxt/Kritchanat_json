@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Kritchanat Malaikwan",
+    "title": "Full Stack Developer",
+    "email": "kritchanat.m@ku.th",
+    "phone": "0648593645",
+    "location": "Chonburi, Thailand",
+    "university": "KU SRC",
+    "skills": [
+      "Mobile App",
+      "Machine Learning",
+      "UX/UI design",
+      "Frontend",
+      "Backend"
+    ]
+  },
+  {
+    "name": "Bak Gotjitag",
+    "title": "AI Assistant",
+    "email": "thanakrit.thu@ku.th",
+    "phone": "0627395866",
+    "location": "Chonburi, Thailand",
+    "university": "KU SRC",
+    "skills": [
+      "AI",
+      "Natural Language",
+      "Frontend"
+    ]
+  },
+  {
+    "name": "Diwjiw Jiw",
+    "title": "Project Manager",
+    "email": "tanakit.sirite@live.ku.th",
+    "phone": "0623456789",
+    "location": "Chonburi, Thailand",
+    "university": "KU SRC",
+    "skills": [
+      "Project Management",
+      "Backend",
+      "Data Engineering"
+    ]
+  }
+]
